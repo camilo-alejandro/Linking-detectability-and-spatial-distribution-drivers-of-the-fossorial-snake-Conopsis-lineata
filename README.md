@@ -9,7 +9,7 @@ Camilo Alejandro Cruz-Arroyave1, Carlos A. Yáñez-Arenas2, Jaime Zúñiga-Vega3
 Corresponding author: hibraimperez@iztacala.unam.mx 
 
 ## Citation
-Cruz-arroyave, C.A., Yáñez-Arenas, C.A., Zúñiga-Vega, J.J., Pérez-Mendoza H.A. (2025). Linking detectability and spatial distribution drivers of the fossorial snake *Conopsis lineata* in central Mexico. Article in the process of being published. DOI: [pending/insert DOI]
+Cruz-arroyave, C.A., Yáñez-Arenas, C.A., Zúñiga-Vega, J.J., Pérez-Mendoza H.A. (2025). Linking detectability and spatial distribution drivers of the fossorial snake *Conopsis lineata* in central Mexico. Article in the process of being published (https://doi.org/10.5281/zenodo.17497087)
 
 **Repository:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
